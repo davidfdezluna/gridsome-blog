@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: davidfdezluna/davidfdezluna.github.io
+  repo: davidfdezluna/gridsome-blog
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
